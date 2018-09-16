@@ -1,0 +1,22 @@
+c:\users\svchost\documents\visual studio 2015\Projects\Oyun\Oyun\bin\Debug\Oyun.exe.config
+c:\users\svchost\documents\visual studio 2015\Projects\Oyun\Oyun\bin\Debug\Oyun.exe
+c:\users\svchost\documents\visual studio 2015\Projects\Oyun\Oyun\bin\Debug\Oyun.pdb
+c:\users\svchost\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.Form1.resources
+c:\users\svchost\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.Properties.Resources.resources
+c:\users\svchost\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.csproj.GenerateResource.Cache
+c:\users\svchost\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.exe
+c:\users\svchost\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.pdb
+C:\Users\svchost\Documents\Visual Studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.csprojResolveAssemblyReference.cache
+C:\Users\svchost\Documents\Visual Studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.Form2.resources
+C:\Users\svchost\Documents\Visual Studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.Form3.resources
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\bin\Debug\Oyun.exe.config
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\obj\Debug\Oyun.exe
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\obj\Debug\Oyun.pdb
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\bin\Debug\Oyun.exe
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\bin\Debug\Oyun.pdb
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\obj\Debug\Oyun.csprojResolveAssemblyReference.cache
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\obj\Debug\Oyun.Form1.resources
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\obj\Debug\Oyun.Form2.resources
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\obj\Debug\Oyun.Form3.resources
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\obj\Debug\Oyun.Properties.Resources.resources
+F:\Berkin Dosyalar\Yerel Disk E\Masaüstü\Gereksiz\Berkin Akkaya\Oyun\obj\Debug\Oyun.csproj.GenerateResource.Cache
